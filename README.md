@@ -88,9 +88,3 @@ If you found this project helpful, please give it a ⭐ on GitHub.
 
 GitHub:
 https://github.com/TineshChasiya
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
